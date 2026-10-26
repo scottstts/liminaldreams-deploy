@@ -1,0 +1,1 @@
+var e=()=>{};function t(t){e=t}var n=async(t,n)=>{e(n),await new Promise(e=>setTimeout(e,0))};export{n,t};

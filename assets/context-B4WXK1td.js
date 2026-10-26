@@ -1,0 +1,1 @@
+var e,t,n;function r(r){n=r,e=r.renderer,t=r.isTouch}export{e as i,n,t as r,r as t};

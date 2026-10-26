@@ -1,0 +1,1 @@
+export{t as setTickSink}from"./util-CJT24BgJ.js";

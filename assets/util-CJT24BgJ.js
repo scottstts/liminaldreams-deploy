@@ -1,0 +1,1 @@
+var e=1,t=()=>{};function n(e){t=e}var r=()=>{e++,t(Math.min(1,e/12))};export{r as n,n as t};

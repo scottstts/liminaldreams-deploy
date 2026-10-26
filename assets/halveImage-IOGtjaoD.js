@@ -1,0 +1,1 @@
+function e(e){let t=document.createElement(`canvas`);t.width=Math.max(1,e.width>>1),t.height=Math.max(1,e.height>>1);let n=t.getContext(`2d`);return n.imageSmoothingQuality=`high`,n.drawImage(e,0,0,t.width,t.height),t}export{e as t};
